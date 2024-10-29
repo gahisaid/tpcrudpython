@@ -1,1 +1,2 @@
-print("Premier entrepot avec GIT")
+n=10
+print(n)
